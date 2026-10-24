@@ -1,6 +1,8 @@
 # Restaurant Menu Manager
 
-A MERN stack app to manage a restaurant menu. Add, view, edit and delete dishes, and switch a dish between available and unavailable.
+- Live demo: https://restaurant-menu-manager-nine.vercel.app/
+- API: https://restaurant-menu-api-65sw.onrender.com
+- Code: https://github.com/abhijithr-1010/Restaurant-Menu-Manager
 
 ## Tech Stack
 - MongoDB Atlas
